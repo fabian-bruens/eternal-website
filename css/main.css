@@ -29,7 +29,6 @@ section {
   cursor: pointer;
   padding: 15px;
   border-radius: 10px;
-  font-size: 18px;
 }
 
 #myBtn:hover {
@@ -143,7 +142,7 @@ section.about-us img {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  height: 11em;
+  height: 6.5em;
 }
 section.about-us .title {
   font-weight: bold;
@@ -157,7 +156,7 @@ section.teams img {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  height: 11em;
+  height: 6.5em;
 }
 section.teams .title {
   font-weight: bold;
@@ -174,7 +173,7 @@ section.shop img {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  height: 11em;
+  height: 8.5em;
 }
 section.shop .title {
   font-weight: bold;
@@ -306,6 +305,15 @@ section.shop .desc {
   .shop-feature .content {
     text-align: right;
     width: 25em;
+  }
+  section.about-us img {
+    height: 11em;
+  }
+  section.teams img {
+    height: 11em;
+  }
+  section.shop img {
+    height: 11em;
   }
 }
 @media only screen and (min-width: 1200px) {
