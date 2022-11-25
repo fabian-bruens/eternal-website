@@ -41,8 +41,8 @@ a {
 }
 
 h1 {
+    margin: 0;
     font-size: 3rem;
-    line-height: 3.3rem;
 }
 
 .subhead {
@@ -151,7 +151,7 @@ section.about-us {
     img {
         width: 100%;
         object-fit: cover;
-        height: 6.5em;
+        height: 6em;
     }
 
     .title {
@@ -169,7 +169,7 @@ section.teams {
     img {
         width: 100%;
         object-fit: cover;
-        height: 6.5em;
+        height: 6em;
     }
 
     .title {
