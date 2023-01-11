@@ -191,13 +191,18 @@ section.shop .desc {
   line-height: 1.5rem;
 }
 
+.links {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
 .shop-img {
   position: absolute;
   left: 0;
   background: url("../images/header.png");
   background-size: cover;
   width: 100%;
-  height: 225vh;
+  height: 270vh;
   z-index: -1;
 }
 
